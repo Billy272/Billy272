@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Survey Form</title>
+    <link rel="stylesheet" type="text/css" href="styles.css"/>
+  </head>
+  <body>
+    
+    <h1 id="title">Survey Form</h1>
+    <p id="description">Please fill in the survey form.</p>
+
+    <form id="survey-form"  >
+      <label id="name-label">Enter your Name:
+        <input id="name" type="text" placeholder="Enter your name..." required/>
+      </label>
+      <label id="email-label">Enter your Email:
+        <input id="email" type="email" placeholder="Enter your email..." required/>
+      </label>
+      <label id="number-label">Age
+      <input id="number" type="number" min="18" max="110" placeholder="Enter your age" required/>
+       </label>
+      <label>What is your current role
+       <select id="dropdown" name="referrer">
+        <option>other</option>
+        <option>Software Engineer</option>
+        <option>Computer Scientist</option>
+        <option>IT Specialist</option>
+        <option>Software Developer</option>
+       </select>
+      </label>
+      <label value="radio-group">Will you recommend us to your friends? 
+    <div>   <input id="yes"
+         type="radio" value="yes" name="definitely"/><label for="yes">Yes</label> 
+        <input id="no" type="radio"value="no" name="definitely"/><label for="no">No</label> 
+     </div>   
+        
+      </label>
+      <label >What would you like to see improved? 
+        <input type="checkbox" value="Workplace">Workplace
+        <input type="checkbox" Value="Salary">Salary
+      </label>
+      <textarea name="comment" rows="4" cols="40" placeholder="Please enter your comments here..."></textarea>
+     <button id="submit" type="submit">Submit</button>
+      
+
+    </form>
+  </body>
+</html>

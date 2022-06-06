@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Billy272
 - 👀 I’m currently learning website development.
 - 🌱 I’m currently learning HTML, CSS and Python.
-- 💞️ I’m looking to collaborate on any Android developer specialist.
+- 💞️ I’m looking to collaborate on any Website Designer or developer.
 - 📫 How to reach me billcordias8@gmail.com
 
 <!---

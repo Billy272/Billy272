@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Billy272
-- 👀 I’m interested in Android development
+- 👀 I’m intrested in website development.
 - 🌱 I’m currently learning HTML, CSS and Python.
 - 💞️ I’m looking to collaborate on any Android developer specialist.
 - 📫 How to reach me billcordias8@gmail.com

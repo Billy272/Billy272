@@ -9,4 +9,4 @@
 Billy272/Billy272 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![IMG_20220330_125815](https://user-images.githubusercontent.com/98650586/197566374-68f28310-012e-49cc-9ed7-828e5cc50727.jpg)
+

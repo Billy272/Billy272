@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Billy272
+- 👋 Hi, I’m @Billy272 :electron::smiley:
 - 👀 I’m currently learning and doing website development.
 - 🌱 I’m currently learning HTML, CSS, JavaScript and Python.
 - 💞️ I’m looking to collaborate on any Website Designer and developer.

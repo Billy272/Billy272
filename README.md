@@ -4,7 +4,6 @@
 <img align="right" alt="coding" width="400" src="https://as2.ftcdn.net/v2/jpg/02/78/37/47/1000_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg"/>
 <img align="centre" alt="coding" width="400" src="https://as1.ftcdn.net/v2/jpg/05/36/77/12/1000_F_536771228_H50Cn9gONUlMNmy7L59EyZ2zfrQZjX6X.jpg"/>
 <img align="left" alt="coding" width="400" src="https://asset.kompas.com/crops/EDLjPMhqh87ac1AyNv2nUieHY9I=/72x0:917x563/750x500/data/photo/2020/11/17/5fb343e41cec1.jpg"/>
-<img align="right" alt="coding" width="400" src="https://thumbs.dreamstime.com/b/coding-wallpaper-ai-robot-algorithms-future-warfare-cyber-attack-concept-155190388.jpg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billy272&label=Profile%20views&color=0e75b6&style=flat" alt="billy272" /> </p>
 
@@ -37,3 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=billy272&show_icons=true&locale=en" alt="billy272" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=billy272&" alt="billy272" /></p>
+<img align="right" alt="coding" width="400" src="https://thumbs.dreamstime.com/b/coding-wallpaper-ai-robot-algorithms-future-warfare-cyber-attack-concept-155190388.jpg"/>

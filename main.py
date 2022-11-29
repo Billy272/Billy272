@@ -7,6 +7,8 @@ print("Enter a value y: \n")
 
 if X < y:
     print("x is less than y")
+    
+return 0;
 
 
 

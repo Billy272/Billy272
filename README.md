@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bill Bitok</h1>
 <h3 align="center">A passionate frontend and Web3 developer from Kenya</h3>
 
-<img align="center"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShxjUuW-8wqDPt3usx6IEnY6yr6rigzQlTOge4-RQsZJ6C5-WvIflwmPiG3m4902gKHJ0&usqp=CAU"/>
+
 <img align="right"  src="https://www.gniindia.org/gnitc/set/cse/images/Artificial%20Intelligence%20&%20Machine%20Learning.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billy272&label=Profile%20views&color=0e75b6&style=flat" alt="billy272" /> </p>
 

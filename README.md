@@ -30,7 +30,7 @@
 
 
 - :man_technologist: I am a front-end developer and also a Web3 learner.
-- :telescope: I’m a stundent of Mathematics and Computer Science and contributing to frontend of web applications.
+- :telescope: I’m a student of Mathematics and Computer Science and also a contributer to frontend of web applications.
 
 - :seedling: Exploring more on Web3 and also pursuing Data Science.
 

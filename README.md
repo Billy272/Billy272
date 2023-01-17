@@ -12,3 +12,26 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<div id="profile" align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="profile"/>
+</div>
+<div id="salute" align="center">
+  <h1>
+   Hey
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    ,I am Bill Bitok
+  </h1>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+- :man_technologist: I am a front-end developer and also a Web3 learner.
+- :telescope: I’m a stundent of Mathematics and Computer Science and contributing to frontend of web applications.
+
+- :seedling: Exploring more on Web3 and also pursuing Data Science.
+
+- :zap: In my free time, I solve problems on Datacamp,programiz and freecodecamp.org.
+
+- :mailbox:How to reach me: billcordias8@gmail.com
+

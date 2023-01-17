@@ -53,9 +53,6 @@
 
 ### :fire: My Stats :
 <div align="left">
-  <img href="https://github-readme-streak-stats.herokuapp.com/?user=Billy272" title="Stats" alt="Stats" width="400" height="450"/>
-</div>
-<div align="left">
+  <img href="https://github-readme-streak-stats.herokuapp.com/?user=Billy272" title="Stats" alt="Stats" width="1400" height="1450"/>
   <img href="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Billy272&theme=dark&background=000000)](https://git.io/streak-stats)"/>
 </div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)

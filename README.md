@@ -53,5 +53,7 @@
 
 ### :fire: My Stats :
 
+[![Billy272 GitHub stats](https://github-readme-stats.vercel.app/api?username=Billy272)](https://github.com/Billy272/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Billy272&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Billy272&theme=github-dark-blue)](https://git.io/streak-stats)

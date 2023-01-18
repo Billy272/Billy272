@@ -52,7 +52,6 @@
 ---
 
 ### :fire: My Stats :
-<div align="left">
-  <img href="https://github-readme-streak-stats.herokuapp.com/?user=Billy272" title="Stats" alt="Stats" width="1400" height="1450"/>
-  <img href="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Billy272&theme=dark&background=000000)](https://git.io/streak-stats)"/>
-</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Billy272&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Billy272&theme=github-dark-blue)](https://git.io/streak-stats)

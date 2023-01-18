@@ -28,7 +28,7 @@
 
 ---
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Billy272)](https://github.com/Billy272/github-profile-trophy)
 - :man_technologist: I am a front-end developer and also a Web3 learner.
 - :telescope: I’m a student of Mathematics and Computer Science and also a contributer to frontend of web applications.
 

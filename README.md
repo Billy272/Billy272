@@ -29,10 +29,10 @@
 ---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Billy272)](https://github.com/Billy272/github-profile-trophy)
-- :man_technologist: I am a full-stack developer.
+- :man_technologist: I am a full-stack developer and a Practicing Data Scientist.
 - :telescope: I’m a student of Mathematics and Computer Science and also a contributer to frontend of web applications.
 
-- :seedling: Exploring more on Web3 and also pursuing Data Science.
+- :seedling: Exploring more on Data Science.
 
 - :zap: In my free time, I solve problems on Datacamp,programiz and freecodecamp.org.
 

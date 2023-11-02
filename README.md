@@ -32,9 +32,9 @@
 - :man_technologist: I am a full-stack developer and a Practicing Data Scientist.
 - :telescope: I’m a student of Mathematics and Computer Science and also a contributer to frontend of web applications.
 
-- :seedling: Exploring more on Data Science.
+- :seedling: Exploring more on Data Science and Machine Learning.
 
-- :zap: In my free time, I solve problems on Datacamp,programiz and freecodecamp.org.
+- :zap: In my free time, I solve problems on Datacamp,leetcode and freecodecamp.org.
 
 - :mailbox:How to reach me: billcordias8@gmail.com
 

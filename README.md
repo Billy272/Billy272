@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+[![wakatime](https://wakatime.com/badge/user/018c72e1-4f03-48d7-a6d3-a80276a9119e.svg)](https://wakatime.com/@018c72e1-4f03-48d7-a6d3-a80276a9119e)
 <div id="profile" align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="profile"/>
 </div>

@@ -61,7 +61,7 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Billy272&theme=github-dark-blue)](https://git.io/streak-stats)
-![Billy272's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Billy272&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
+
 
 <div align="center">
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Billy272&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="" /> 

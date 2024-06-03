@@ -69,5 +69,5 @@
 
 ## WakaTime Stats
 
-[![WakaTime stats](https://wakatime.com/share/@Billy272/fbe85285-b233-4652-bb18-ee610626f52f.svg)](https://wakatime.com/share/@Billy272/fbe85285-b233-4652-bb18-ee610626f52f)
+[![WakaTime stats](https://wakatime.com/share/@Billy272/9ac071cc-8acb-4540-b8d0-5df7e8bafb1f.svg)](https://wakatime.com/share/@Billy272/fbe85285-b233-4652-bb18-ee610626f52f)
 

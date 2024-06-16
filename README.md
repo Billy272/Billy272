@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/018c72e1-4f03-48d7-a6d3-a80276a9119e.svg)](https://wakatime.com/@018c72e1-4f03-48d7-a6d3-a80276a9119e)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
